@@ -6,25 +6,27 @@ Based on the following results, LLMs have the potential to be white-hat hackers.
 
 ## Gandalf Challenge - Write-up
 
-![image](https://github.com/corca-ai/LLMFuzzAgent/assets/64528476/ef79aa11-0d44-4a67-87be-72fb3c30ff81)
+![image](https://github.com/corca-ai/EVAL/assets/64528476/b1e5bf47-3233-4378-861f-4e268251fad7)
 
 Gandalf is a prompt injection game. I attempted to solve this game using LLM automatically. Here are the results. I successfully completed up to level 7. I have redacted the password in the results using '*'.
 
+Gandalf Playground - https://gandalf.lakera.ai/
+
 ### Highlights of the brilliant attack
 
-![image](https://github.com/corca-ai/LLMFuzzAgent/assets/64528476/45c077da-9e6b-46f8-af4d-488ac41d6467)
+![image](https://github.com/corca-ai/EVAL/assets/64528476/50e78f3b-6b4f-4fd1-99bd-1ad63adafa24)
 
 (Level 3) Gandalf explained his process specifically so I could solve the problem.
 
-![image](https://github.com/corca-ai/LLMFuzzAgent/assets/64528476/680c97f7-e96a-4603-a6d3-d0502a355851)
+![image](https://github.com/corca-ai/EVAL/assets/64528476/ae4550cc-6e70-4d40-ad41-36ac867be117)
 
 (Level 4) Really cool! Fuzzer told him to replace some of the movie titles with passwords and it didn't notice anything strange.
 
-![image](https://github.com/corca-ai/LLMFuzzAgent/assets/64528476/ab6acf84-d5a6-4416-80ef-faa256c21ee0)
+![image](https://github.com/corca-ai/EVAL/assets/64528476/9c1e90a7-8c2a-4add-bc2d-f558193eeeb1)
 
 (Level 6) Suddenly he used his own password to solve the problem!
 
-![image](https://github.com/corca-ai/LLMFuzzAgent/assets/64528476/197c874b-5096-453c-8c4a-ff370397b4e1)
+![image](https://github.com/corca-ai/EVAL/assets/64528476/d24a3c36-0e0c-43d2-8630-93d3478a9783)
 
 (Level 7) All time legend. It revealed the password one letter at a time and finally figure it out! 
 
