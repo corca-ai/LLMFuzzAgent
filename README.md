@@ -6,6 +6,8 @@ Based on the following results, LLMs have the potential to be white-hat hackers.
 
 ## Gandalf Challenge - Write-up
 
+https://github.com/corca-ai/LLMFuzzAgent/assets/64528476/d0b1293f-f307-48a4-a75c-32bb864b085f
+
 ![image](https://github.com/corca-ai/EVAL/assets/64528476/b1e5bf47-3233-4378-861f-4e268251fad7)
 
 Gandalf is a prompt injection game. I attempted to solve this game using LLM automatically. Here are the results. I successfully completed up to level 7. I have redacted the password in the results using '*'.
